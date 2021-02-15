@@ -10,7 +10,7 @@ using UnityEngine.EventSystems;
 using UnityEditor;
 
 ///////////////////////////////////
-///     Dev-astation Dev Console ///
+///     Unity Scriptable Object Dev Console ///
 ///   Written By Pseudonym_Tim  ///
 ///////////////////////////////////
 
